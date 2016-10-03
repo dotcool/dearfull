@@ -11,16 +11,15 @@
 
 1.pc界面
 
-
+![Image of PC home](http://www.dearfull.com/Uploads/Editor/2016-10-03/57f23fcc41fb4.png)
 
 2.手机界面，支持响应式布局
 
-
+![Image of Pocket home](http://www.dearfull.com/Uploads/Editor/2016-10-03/57f23fcdba659.png)
 
 3.pc界面，资源列表详情
 
-4.手机界面，支持响应式布局
-
+![Image of PC list](http://www.dearfull.com/Uploads/Editor/2016-10-03/57f23fd01625f.png)
 
 
 如果希望拥有自己的百度网盘资源搜索站，请在帖子后边留言我们会尽快与您联系(我们的qq群：578872301)
